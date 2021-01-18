@@ -9,9 +9,16 @@ After the data was read and imported into Jupyter Notebook and analyzed further,
 ![Results](https://github.com/EJones621/Pyber_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 
-As we can see, urban revenue is the highest, which makese sense. Urban city had the highest because they have more people and more drivers, but their rides tend to be shorter in duration. There is no clear indication as to why there are certain dips and increases from month-to-month. The only piece of information that may explain it would be the weather, but we unfortunately do not have that data. Urban city types have far more total rides than both rural and suburban, but the average fare is smaller because of duration of the ride. 
+As we can see, urban revenue is the highest, which makese sense. Urban city had the highest because they have more people and more drivers, but their rides tend to be shorter in duration. There is no clear indication as to why there are certain dips and increases from month-to-month. The only piece of information that may explain it would be the weather, but we unfortunately do not have that data. Urban city types have a far higher volume in total rides than both rural and suburban, but the average fare is smaller because of duration of the ride. Nonetheless, urban riders bring in nearly 63% of all revenue.
 
 
 ## Conclusion
-##### Recommendations:
-1. 
+Here are recommendations for all three city types:
+##### Urban
+1. As mentioned earlier, with urban riders bringing in nearly 63% of revenue to PyBer, it may be worth while to look further into cities that have a low fare cost and either dismiss them all together or increase the fare.
+
+##### Suburban
+2. Suburban areas are right in the middle among the city types, but between the other two (royal & urban) they bring in a positive correlation between the fare and number of riders. It may be worth while looking into the suburban areas to increase the total overall revenue.
+
+##### Rural
+3. Since rural city rides have the highest fare, increasing the number of rides would drive up revenue a lot more.
