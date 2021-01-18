@@ -9,4 +9,9 @@ After the data was read and imported into Jupyter Notebook and analyzed further,
 ![Results](https://github.com/EJones621/Pyber_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 
-As we can see, 
+As we can see, urban revenue is the highest, which makese sense. Urban city had the highest because they have more people and more drivers, but their rides tend to be shorter in duration. There is no clear indication as to why there are certain dips and increases from month-to-month. The only piece of information that may explain it would be the weather, but we unfortunately do not have that data. Urban city types have far more total rides than both rural and suburban, but the average fare is smaller because of duration of the ride. 
+
+
+## Conclusion
+##### Recommendations:
+1. 
