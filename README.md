@@ -1,4 +1,4 @@
-# Pyber_Analysis
+# Pyber Analysis
 
 ## Project Introduction
 The PyBer Analysis reviews a ride-sharing app called, "PyBer". The analysis pulls data from January 2019 through April 2019. We want to see the relationship between a few different things including, area type (Rural, Suburban, Urban), driver count, average fare per ride, and average fare per driver. 
